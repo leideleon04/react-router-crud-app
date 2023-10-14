@@ -1,0 +1,13 @@
+body{
+   color: navy;
+}
+
+
+.card {
+   display: flex;
+   justify-content: center;
+   min-height: 100vh;
+   text-align: center;
+   align-items: center;
+   width: 1000px;
+}
